@@ -41,7 +41,17 @@
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta a la Pregunta 1 -->
+### Diferencia entre conceptos:
+- **git clone:** Copia un repositorio remoto a tu máquina local.
+- **fork:** Crea una copia del repositorio en tu cuenta de GitHub.
+- **git pull:** Descarga y fusiona los cambios remotos a tu rama local.
 
+### Proceso realizado:
+
+**¿Cómo se realizó el fork?**
+Se ingresó al repositorio original en GitHub y se hizo clic en el 
+botón "Fork", seleccionando la cuenta personal.
+![Fork realizado](pregunta1.jpeg)
 ---
 
 ## Pregunta 2 (1 punto)
